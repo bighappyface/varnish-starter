@@ -1,4 +1,4 @@
-# Edge Side Includes Demo
+# Varnish Starter
 
 ## Requirements
 
